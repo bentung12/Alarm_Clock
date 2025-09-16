@@ -97,4 +97,4 @@ This design demonstrates timekeeping, alarm functionality, LED indicators, and i
 
 ## 👤 Author
 
-FPGA project by **Benjamin Tung**.
+FPGA project by **Benjamin Tung** and **Hanson Nguyen**.
